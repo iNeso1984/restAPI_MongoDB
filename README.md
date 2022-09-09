@@ -1,11 +1,11 @@
 # RestApi template using MongoDB and Express.js
 
-## Can be used with Postman or Insomnia. 
+### Can be used with Postman or Insomnia. 
 
 ### Port is set to 4000.
 
 ### Sample urlencoded POST:
-[
+```[
     {
         "_id": "631b4793a6b5053297d3ecc0",
         "name": "John Doe",
@@ -17,3 +17,4 @@
         "__v": 0
     }
 ]
+```
